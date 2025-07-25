@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "compromise": "^14.14.4",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.2",
+    "qrcode": "^1.5.4",
+    "sentiment": "^5.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "nodemon": "^3.1.10",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+}
